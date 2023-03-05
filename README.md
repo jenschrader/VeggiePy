@@ -1,4 +1,6 @@
-# :carrot: VeggiePy :carrot:
+![veggie_icon](https://user-images.githubusercontent.com/126116482/222989926-fb37e1fe-8bdd-4062-b55c-1d3ba0c472a5.png)
+
+#  VeggiePy 
 
 
 ![blocks-export1](https://user-images.githubusercontent.com/119619241/208245789-8d581dcb-de76-458a-8383-c0fd77907eaf.png)
