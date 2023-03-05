@@ -1084,31 +1084,22 @@ class VeggiePy():
 
     # *-- auto indent --*
     # *************************************
-    def auto_indent(self, event):
-        self.colon = ":"
-        self.indent = 'hi'
-        if self.text_area.get('1.0') == self.colon:
-            self.text_area.insert('1.0', self.indent)
-            
-        else:
-            pass
-
-            
-    # code
+        
+    # code to come
 
     # *************************************
 
     # *-- predictive txt --*
     # *************************************
 
-    # code
+    # code to come
 
     # *************************************
 
     # *-- auto complete --*
     # *************************************
 
-    # code
+    # code to come
 
     # *************************************
 
