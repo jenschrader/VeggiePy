@@ -1,4 +1,5 @@
-![veggie_icon](https://user-images.githubusercontent.com/126116482/222989926-fb37e1fe-8bdd-4062-b55c-1d3ba0c472a5.png)
+![2](https://user-images.githubusercontent.com/126116482/223768683-c8a7dd4c-3482-4e9c-981c-a20a6d581cf5.png)
+
 
 #  VeggiePy 
 
